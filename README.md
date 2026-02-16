@@ -8,8 +8,8 @@ JobPostTracker is a reliability-first job intelligence pipeline that monitors co
 
 This is a collaborative project built by:
 
-- Archit Shukla — https://github.com/YOUR_USERNAME  
-- Varunnagarnahalli Raghavendra — https://github.com/HIS_USERNAME  
+- Archit Shukla — https://github.com/Arsh9532
+- Varunnagarnahalli Raghavendra — https://github.com/varun-raghavendra  
 
 Both contributors were involved in the system design, scraping pipeline, extraction logic, and infrastructure decisions.
 
