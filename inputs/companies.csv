@@ -1,0 +1,41 @@
+company,url
+meta,https://www.metacareers.com/jobsearch/?q=Software&sort_by_new=true&offices[0]=North%20America&roles[0]=Full%20time%20employment&roles[1]=Internship
+apple,https://jobs.apple.com/en-us/search?sort=newest&location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+natural-language-processing-and-speech-technologies-MLAI-NLP+applied-research-MLAI-AR+deep-learning-and-reinforcement-learning-MLAI-DLRL+computer-vision-MLAI-CV+acoustic-technologies-HRDWR-ACT+architecture-HRDWR-ARCH+camera-technologies-HRDWR-CAM+display-technologies-HRDWR-DISP+engineering-project-management-HRDWR-EPM+environmental-technologies-HRDWR-ENVT+health-technology-HRDWR-HT+machine-learning-and-ai-HRDWR-MCHLN+mechanical-engineering-HRDWR-ME+process-engineering-HRDWR-PE+reliability-engineering-HRDWR-REL+sensor-technologies-HRDWR-SENT+silicon-technologies-HRDWR-SILT+system-design-and-test-engineering-HRDWR-SDE+wireless-hardware-HRDWR-WT+battery-engineering-HRDWR-BE+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+quality-engineering-OPMFG-QE+manufacturing-and-operations-engineering-OPMFG-MFGE+information-systems-and-technology-CORSV-IT+field-and-solutions-engineering-SLDEV-FSE+internships-STDNT-INTRN
+nvidia,https://nvidia.eightfold.ai/careers?query=%22developer%22+and+%22engineer%22&start=0&location=United+States&pid=893397112852&sort_by=timestamp&filter_include_remote=1&filter_include_relocation=0&filter_job_category=sales%2Cengineering%2Coperations%2Cuniv+employment%2Cit+-+information+technology%2Cprofessional+services
+goldmansachs,https://higher.gs.com/results?DIVISION=Engineering%20Division|Platform%20Solutions&LOCATION=Arizona|Los%20Angeles|Newport%20Beach|San%20Francisco|Washington|Wilmington|Miami|West%20Palm%20Beach|Miami|West%20Palm%20Beach|Atlanta|Chicago|Deerfield|Chicago|Boston|Detroit|Boston|Detroit|Jersey%20City|Albany|New%20York|New%20York|Pittsburgh|Philadelphia|Dallas|Houston|Richardson|Irving|Dallas|Salt%20Lake%20City|Draper|Salt%20Lake%20City|Seattle|Seattle|Phoenix|Denver|Baltimore&page=1&sort=POSTED_DATE
+doordash,https://careersatdoordash.com/job-search/?intern=0&sort=POSTED_DATE&location=&keyword=&spage=1
+airbnb,https://careers.airbnb.com/positions/?_search_input=engineer&_offices=united-states&_jobs_sort=updated_at
+visa,https://visa.wd5.myworkdayjobs.com/Visa?cities=Highlands%20Ranch&cities=Ashburn&cities=Atlanta&cities=Austin&cities=Bellevue&cities=Foster&cities=Foster%20City&cities=Los%20Angeles&cities=Miami&cities=New%20York&cities=Oakland&cities=San%20Francisco&cities=San%20Juan&cities=Washington&sortProperty=createdOn&sortOrder=DESC&locationCountry=bc33aa3152ec42d4995f4791a106ed09&jobFamily=2745bc1368021016a991afa3ad023ada&jobFamily=2745bc1368021016a991f65e710a3b1e&jobFamily=03432a8f4d9c01a2bffcb3b5921d4d35&jobFamily=2745bc1368021016a991a83acf5a3ad0&jobFamily=2745bc1368021016a991f958196a3b22&jobFamily=31f1c52f685c018679c336da4b46da8e&jobFamily=ad45ef80fd47018bd5538fe7856817d3&jobFamily=ad45ef80fd4701f3e09a4bdd856804d3&jobFamily=2745bc1368021016a991c15cf0123af2&jobFamily=cd34908266e2010d997410db02700000&jobFamily=2745bc1368021016a992aab111da3b2f&jobFamily=2745bc1368021016a991fc4c76523b26&jobFamily=6d733a9a7975010e68a5966a1d4d19d7&jobFamily=dabd48cb2dc2104af43ebdf7fa7af66d
+Bayview_Asset_Management,https://careers.bayview.com/bam/jobs?sortBy=posted_date&descending=true&page=1&tags1=Regular%20Full-Time
+Lenovo,https://jobs.lenovo.com/en_US/careers/SearchJobs/?13036=%5B12016802%5D&13036_format=6621&1637=%5B2020737%2C2020766%2C2020793%2C326181%2C326178%2C326191%2C326205%5D&1637_format=966&listFilterMode=1&jobSort=schemaField_3_37_3&jobSortDirection=ASC&jobRecordsPerPage=10&
+Coreweave,https://coreweave.com/careers
+ClickHouse,https://clickhouse.com/company/careers
+LangChain,https://www.langchain.com/careers#explore-jobs
+Databricks,https://www.databricks.com/company/careers/open-positions?department=all&location=United%20States
+ArizeAI,https://arize.com/careers/
+Braintrust,https://www.braintrust.dev/careers
+Baseten,https://www.baseten.co/resources/careers/?department=engineering#join-our-team
+Atlan,https://atlan.com/careers/#job-list
+Fivetran,https://www.fivetran.com/careers#jobs
+Pinecone,https://www.pinecone.io/careers/#open-roles
+Weaviate,https://weaviate.io/company/careers#jobs
+TogetherAI,https://www.together.ai/careers#roles
+Modal,https://jobs.ashbyhq.com/modal
+Anyscale,https://jobs.ashbyhq.com/anyscale
+Cloudflare,https://www.cloudflare.com/careers/jobs/?department=Emerging+Technology+%26+Incubation
+LanceDB,https://jobs.ashbyhq.com/lancedb
+Elastic,https://jobs.elastic.co/jobs/country/united-states?size=n_20_n
+KLA,https://kla.wd1.myworkdayjobs.com/Search?State_Province_Region=ec3d210e4240442e99a28fa70419aec5
+Google-Eng,https://www.google.com/about/careers/applications/jobs/results/?location=United%20States&q=software%20engineer&target_level=EARLY&sort_by=date
+Amazon-Eng,https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&industry_experience=less_than_1_year&latitude=&longitude=&loc_group_id=&loc_query=United%20States&base_query=software%20engineer&city=&country=&region=&county=&query_options=&
+Microsoft entry eng,https://apply.careers.microsoft.com/careers?start=0&location=United+States&pid=1970393556972217&sort_by=timestamp&filter_include_remote=1&filter_include_relocation=0&filter_seniority=Entry
+Salesforce new ,https://www.salesforce.com/company/careers/jobs/?pagesize=500&country=United+States+of+America&employeeTypes=New+Grads&employeeTypes=Intern&page=1
+Servicenow,https://careers.servicenow.com/jobs/?search=&jobPostingType=Early+Career&country=United+States&pagesize=20#results
+Snowflake -CA,https://jobs.ashbyhq.com/snowflake/?locationId=9209c619-51c5-4d6d-b0c9-0f3d2f322f74
+Snowflake -WA,https://jobs.ashbyhq.com/snowflake/?locationId=aa2d26a6-4d01-484a-8503-d71cc4d2fbaf
+OpenAI - app ai,https://jobs.ashbyhq.com/openai?departmentId=e1e973fe-6f0a-475f-9361-a9b6c095d869&locationId=bbd9f7fe-aae5-476a-9108-f25aea8f6cd2
+OpenAI - user,https://jobs.ashbyhq.com/openai?departmentId=3ed1a031-8096-458c-96b5-732f3c46e327&locationId=bbd9f7fe-aae5-476a-9108-f25aea8f6cd2
+OpenAI-consumer,https://jobs.ashbyhq.com/openai?departmentId=fbfed648-ca4d-4d05-ac90-32c05d417972&locationId=bbd9f7fe-aae5-476a-9108-f25aea8f6cd2
+X AI,"https://x.ai/careers/open-roles?location=remote+united+states,bastrop%252C+texas,palo+alto%252C+california,memphis%252C+tennessee,southaven%252C+mississippi,new+york%252C+new+york,austin%252C+texas,los+angeles%252C+california,memphis%252C+tn,atlanta%252C+georgia,hillsboro%252C+oregon,seattle%252C+washington,washington%252C+d.c.&dept=4024733007,4064385007,4064292007,4046295007,4052172007,4064383007,4046294007,4064288007,4064286007"
+Scale Ai pg1,https://job-boards.greenhouse.io/scaleai?offices%5B%5D=4019441005&departments%5B%5D=4184195005&departments%5B%5D=4184454005&departments%5B%5D=4184455005&departments%5B%5D=4140829005&departments%5B%5D=4003430005&departments%5B%5D=4003435005&departments%5B%5D=4146658005&departments%5B%5D=4039302005&departments%5B%5D=4138009005&departments%5B%5D=4136577005&departments%5B%5D=4136579005&departments%5B%5D=4136578005&departments%5B%5D=4044812005
+Scale Ai pg2,https://job-boards.greenhouse.io/scaleai?offices%5B%5D=4019441005&departments%5B%5D=4184195005&departments%5B%5D=4184454005&departments%5B%5D=4184455005&departments%5B%5D=4140829005&departments%5B%5D=4003430005&departments%5B%5D=4003435005&departments%5B%5D=4146658005&departments%5B%5D=4039302005&departments%5B%5D=4138009005&departments%5B%5D=4136577005&departments%5B%5D=4136579005&departments%5B%5D=4136578005&departments%5B%5D=4044812005&page=2
